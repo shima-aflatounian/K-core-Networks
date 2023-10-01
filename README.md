@@ -2,6 +2,8 @@
 K.core introduction
 In graph theory, the k-core of a graph refers to a subgraph in which every node has a degree of at least k. In other words, the k-core represents the maximal connected subgraph in which each node is connected to at least k other nodes within the subgraph.
 <img width="775" alt="K core sample" src="https://github.com/shima-aflatounian/K-core-Networks/assets/142253772/5ae4668b-febb-437d-95ce-a3389aba8753">
+
+
 K-cores are useful for understanding the structural properties of a graph and identifying densely connected regions within a network. They have various applications in different domains, including social network analysis, biology, and neuroscience.
 
 In the context of brain networks, studying k-cores can help identify highly interconnected regions or "hubs" that play crucial roles in information processing and communication. These k-core nodes are often considered influential because they have a strong influence on the overall connectivity and dynamics of the brain network.
