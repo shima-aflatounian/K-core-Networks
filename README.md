@@ -1,6 +1,7 @@
 # Learning K.core calculation for graphs
 K.core introduction
 In graph theory, the k-core of a graph refers to a subgraph in which every node has a degree of at least k. In other words, the k-core represents the maximal connected subgraph in which each node is connected to at least k other nodes within the subgraph.
+
 <img width="775" alt="K core sample" src="https://github.com/shima-aflatounian/K-core-Networks/assets/142253772/5ae4668b-febb-437d-95ce-a3389aba8753">
 
 
